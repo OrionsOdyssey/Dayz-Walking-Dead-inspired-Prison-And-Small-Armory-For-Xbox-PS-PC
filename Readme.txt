@@ -1,8 +1,8 @@
 This custom object spawner json file will spawn in a The Walking Dead Style Prison Build with Armory in Chernarus (West of Stary, in the middle of the map coordinates 5746.03 / 7382.83).
-
- 
+Please Note Buildings Are lopsided so that the whole of the inside of the building is usable. This may change in future updates ...
 
 Limited Testing on PC Chernarus Local Server DAYZ Version 1.24 May 2024.
+Extended Testing on Xbox Nitrdo Server DAYZ Version 1.24 May 2014.
 
 Created by @OrionCoding. Please report bugs & errors to Orioncodingdayz@gmail.com with screenshots.
 

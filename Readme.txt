@@ -54,7 +54,7 @@ Edit it to look like this:
 
 If you already are using custom jsons to spawn items, seperate the files like this:
 
- "objectSpawnersArr": ["custom/TWDPRISON.json","customfile1.json","customfile2.json"].
+ "objectSpawnersArr": ["custom/TWDPRISON.json","custom/file1.json","custom/file2.json"].
 
 
 PC SET UP...
